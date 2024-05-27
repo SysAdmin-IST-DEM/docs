@@ -22,3 +22,9 @@ Welcome to the SysAdmin @ DEM documentation repository. This repository contains
 ## Contributing
 
 Contributions to this repository are welcome. If you have any improvements or additional documentation, please submit a pull request. Ensure your contributions adhere to the repository's guidelines and standards.
+
+## Visiting the site
+
+If you seeing this from github's readme feel free to visit the documentation from a more proper preview at:
+
+https://sysadmin-ist-dem.github.io/docs/
