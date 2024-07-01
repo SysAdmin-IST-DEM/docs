@@ -14,11 +14,3 @@ Here is what the Staff Control Panel looks like, if the login was made correctly
 To start answering tickets you can click on the ticket and write your answer as you were writing an email.
 
 **Correct support email:** suporte@dem.tecnico.ulisboa.pt
-
-## Common Requests
-
-(Leave this section blank for now, to be filled with common requests as they are identified.)
-
-## Common Problems
-
-(Leave this section blank for now, to be filled with common problems and their solutions as they are identified.)

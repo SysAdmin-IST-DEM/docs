@@ -11,17 +11,12 @@ Existe uma pen onde está o setup do Windows11 e depois é só escrever a licen�
 
 <img width="50%" height="50%" align="right" src="../../assets/windows-11-setup.png">
 
-<br>
-<br>
-<br>
-<br>
-
 <ul size="10px">
     <li>Selecionar windows11_x64</li>
-    <br>
     <li>Selecionar o disco HDD ou SSD onde instalar o windows</li>
-    <br>
     <li>Selecionar a linguagem correta.</li>
+    <li>Daqui para a frente é o setup usual do windows,
+     é provável que tenha que perguntar a preferência de quem vai usar o computador.</li>
 </ul>
 
 <br>

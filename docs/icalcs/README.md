@@ -27,10 +27,37 @@ Here is a look at the current state at each ICALC and their respective software 
 | Matlab Oficial               |               |               |               |               |               | r2024a        | r2024a        | r2024a        | r2024a        | r2024a        |
 | Altair                       |               |               |               | Aerotec       |               |               |               |               |               |               |
 
+### Adding a new ICALC
+
+Adding a new ICALC is not an easy task but fortunaly is also not a common one made by the professor.
+
+Here a list of things you might need to do if you need to install a new ICALC:
+
+<ul>
+    <li>For preparation you can check for space in the Polo1 room also talked about in this docs.</li>
+    <li>You'll need to ask for a static IP address so people can connect via Remote Desktop to the computer. You can do so by sending an email to DSI (their general email) and ask for one assigned to that machine.</li>
+    <li>Once you have the computer, start with installing the Windows 11 since it might not come with it pre installed and come with a later version of it- </li>
+    <li>Install all the appropriate software meant for that computer.</li>
+</ul>
+
 ## Common Requests
 
-(Leave this section blank for now, to be filled with common requests as they are identified.)
+##### Request: Studing Association asks to add a computer to the Authorized list.
 
-## Common Problems
+##### Solution:
 
-(Leave this section blank for now, to be filled with common problems and their solutions as they are identified.)
+Student Associations have acess to some ICALC's with software which they might need to run their simulations. This acess can only made from authorized IP's. These can be added...
+
+##### Request: Add new User to the domain so it can be used in the ICALC.
+
+##### Solution:
+
+Users in the ICALC have their accounts in our domain, if a new masters/doctorate student asks for acess to ICALC's (usually sent by a professor), we need to create a new ICALC account using their email, and a random password to be changed on the first login. More about how to do this can be found on the [Active Directory](../active_directory/README.md) aba.
+
+##### Request: Install / Update new Software.
+
+##### Solution:
+
+Most often than most of the other requests, people who use the ICALC's (either a student association or an individual), might ask you to update software or install new software. This is also trivial you can just search for the update and install it.
+
+**!!HOWEVER Careful when installing software not all software should be installed in the ICALC's there should be a talk either with your collegue or with the Professor to check if it makes sense to add the software in question to the ICALC's!!**
